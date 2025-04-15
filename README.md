@@ -10,8 +10,7 @@ I'm Nate, a senior frontend software engineer living in Colorado.
 - ⚙️ React, Angular, Ionic/Capacitor
 - 👁️ Tailwind, SASS, CSS, Styled Components
 - 📱 Web Apps, Design Systems, Mobile Apps
-+ a lot more :D
-
++ a lot more 🙌🏻
 ## Contact
 - [nathanbeekman.com](https://nathanbeekman.com)
 - [@martonlederer](https://www.linkedin.com/in/nathanbeekman/) on LinkedIn
