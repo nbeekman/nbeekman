@@ -10,7 +10,7 @@ I'm Nathan, a senior frontend software engineer living in Colorado.
 - ⚙️ React, Angular, Ionic/Capacitor
 - 👁️ Tailwind, SASS, CSS, Styled Components
 - 📱 Web Apps, Design Systems, Mobile Apps
-- 💡 UX design, Thought Leadership
+- 💡 UX Design, Thought Leadership
 
 ## Contact
 - [nathanbeekman.com](https://nathanbeekman.com)
