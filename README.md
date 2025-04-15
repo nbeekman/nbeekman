@@ -1,5 +1,5 @@
 ## Hey! 👋
-I'm Nate, a senior frontend software engineer living in Colorado.
+I'm Nathan, a senior frontend software engineer living in Colorado.
 
 - 👨‍💻 Working at [Crux Digital](https://cruxdigital.com)
 
