@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hey! 👋
+I'm Nate, a senior frontend software engineer living in Colorado.
 
-<!--
-**nbeekman/nbeekman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👨‍💻 Working at [Crux Digital](https://cruxdigital.com)
 
-Here are some ideas to get you started:
+- 🧭 Founding Engineer at [Blended](https://blended.app)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- 👨‍💻 TypeScript, JavaScript
+- ⚙️ React, Angular, Ionic/Capacitor
+- 👁️ Tailwind, SASS, CSS, Styled Components
+- 📱 Web Apps, Design Systems, Mobile Apps
++ a lot more :D
+
+## Contact
+- [nathanbeekman.com](https://nathanbeekman.com)
+- [@martonlederer](https://www.linkedin.com/in/nathanbeekman/) on LinkedIn
