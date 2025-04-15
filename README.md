@@ -13,4 +13,4 @@ I'm Nathan, a senior frontend software engineer living in Colorado.
 + a lot more 🙌🏻
 ## Contact
 - [nathanbeekman.com](https://nathanbeekman.com)
-- [@martonlederer](https://www.linkedin.com/in/nathanbeekman/) on LinkedIn
+- [Nathan Beekman](https://www.linkedin.com/in/nathanbeekman/) on LinkedIn
